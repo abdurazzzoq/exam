@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@100;400;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+
+@import './header';
+@import './main';
+@import './work';
+@import './article';
+@import './ui';
+@import './finance';
+@import './start';
+@import './footer';
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li{
+    list-style-type: none;
+}
+
+body{
+    background: #EDF3F8;
+}
+
+
+.container{
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 1190px;
+    width: 100%;
+}
+
+
+
+
